@@ -1,0 +1,26 @@
+{
+    "title": "Recipe Geh",
+    "nav": {
+        "recipes": "Recipes",
+        "search": "Search",
+        "favorites": "Favorites"
+    },
+    "search": {
+        "hint": "Search recipes...",
+        "start": "Search for delicious recipes",
+        "no_results": "No recipes found"
+    },
+    "favorites": {
+        "empty": "No favorites yet",
+        "hint": "Tap the heart icon to save recipes"
+    },
+    "meal": {
+        "ingredients": "Ingredients",
+        "instructions": "Instructions",
+        "no_instructions": "No instructions available",
+        "watch_video": "Watch Video"
+    },
+    "footer": {
+        "rights": "All rights reserved"
+    }
+}

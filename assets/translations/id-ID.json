@@ -1,0 +1,26 @@
+{
+    "title": "Recipe Geh",
+    "nav": {
+        "recipes": "Resep",
+        "search": "Cari",
+        "favorites": "Favorit"
+    },
+    "search": {
+        "hint": "Cari resep...",
+        "start": "Cari resep lezat",
+        "no_results": "Resep tidak ditemukan"
+    },
+    "favorites": {
+        "empty": "Belum ada favorit",
+        "hint": "Ketuk ikon hati untuk menyimpan"
+    },
+    "meal": {
+        "ingredients": "Bahan-bahan",
+        "instructions": "Cara Membuat",
+        "no_instructions": "Tidak ada instruksi",
+        "watch_video": "Tonton Video"
+    },
+    "footer": {
+        "rights": "Hak cipta dilindungi"
+    }
+}

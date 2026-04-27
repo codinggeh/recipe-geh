@@ -20,7 +20,7 @@ A beautiful recipe discovery app built with Flutter. Find delicious meals from a
 
 ## 🚀 Live Demo
 
-**[Try Recipe Geh →](https://coding-geh.github.io/recipe-geh/)**
+**[Try Recipe Geh →](https://codinggeh.github.io/recipe-geh/)**
 
 ## 📦 Installation
 
@@ -32,7 +32,7 @@ A beautiful recipe discovery app built with Flutter. Find delicious meals from a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Coding-Geh/recipe-geh.git
+   git clone https://github.com/codinggeh/recipe-geh.git
    cd recipe-geh
    ```
 
